@@ -1,0 +1,16 @@
+1) Git clone <http git address>
+2) Git merge <master> <develop> -->develop content has been pushed to master
+3) Git checkout -b <branchname>
+4) Git add .
+5) Git add "<filename>"
+6) Git commit -m "<Comments>"
+7) Git push origin <master> --> <any branch>
+8) Git Switch <branchname>
+9) Git status
+10) Git brnach
+11) ls
+
+Pushing to remote git
+
+git remote add origin https://github.com/manoharraju/cherrypick.git
+git push -u origin master
