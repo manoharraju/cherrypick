@@ -14,3 +14,6 @@ Pushing to remote git
 
 git remote add origin https://github.com/manoharraju/cherrypick.git
 git push -u origin master
+
+Cherry-Pick
+git cherry-pick e907d6b
